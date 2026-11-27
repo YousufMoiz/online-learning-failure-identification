@@ -1,0 +1,21 @@
+model,seed,errors,accuracy,recovery after EDFA,recovery after NLI
+"Decision tree, Normal + ECL",0,9947,0.60212,,
+"Decision tree, all classes",0,43,0.99828,0.0,0.0
+"Decision tree, Normal + ECL",1,10050,0.598,,
+"Decision tree, all classes",1,34,0.99864,0.0,0.0
+"Decision tree, Normal + ECL",2,9974,0.60104,,
+"Decision tree, all classes",2,39,0.99844,0.0,0.0
+"Decision tree, Normal + ECL",3,9959,0.60164,,
+"Decision tree, all classes",3,41,0.99836,0.0,0.0
+"Decision tree, Normal + ECL",4,10030,0.5988,,
+"Decision tree, all classes",4,38,0.99848,99.0,0.0
+"Decision tree, Normal + ECL",5,9967,0.60132,,
+"Decision tree, all classes",5,39,0.99844,0.0,0.0
+"Decision tree, Normal + ECL",6,9860,0.6056,,
+"Decision tree, all classes",6,24,0.99904,0.0,0.0
+"Decision tree, Normal + ECL",7,10066,0.59736,,
+"Decision tree, all classes",7,37,0.99852,0.0,0.0
+"Decision tree, Normal + ECL",8,10088,0.59648,,
+"Decision tree, all classes",8,43,0.99828,137.0,0.0
+"Decision tree, Normal + ECL",9,9879,0.60484,,
+"Decision tree, all classes",9,35,0.9986,0.0,0.0

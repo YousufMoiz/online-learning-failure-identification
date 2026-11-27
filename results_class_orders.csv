@@ -1,0 +1,121 @@
+order,model,seed,errors
+EDFA then NLI (paper),Static,0,9947
+EDFA then NLI (paper),Online,0,129
+EDFA then NLI (paper),Periodic,0,2918
+EDFA then NLI (paper),Oracle,0,58
+EDFA then NLI (paper),Static,1,10050
+EDFA then NLI (paper),Online,1,87
+EDFA then NLI (paper),Periodic,1,3015
+EDFA then NLI (paper),Oracle,1,31
+EDFA then NLI (paper),Static,2,9974
+EDFA then NLI (paper),Online,2,103
+EDFA then NLI (paper),Periodic,2,2958
+EDFA then NLI (paper),Oracle,2,52
+EDFA then NLI (paper),Static,3,9959
+EDFA then NLI (paper),Online,3,101
+EDFA then NLI (paper),Periodic,3,2958
+EDFA then NLI (paper),Oracle,3,36
+EDFA then NLI (paper),Static,4,10030
+EDFA then NLI (paper),Online,4,110
+EDFA then NLI (paper),Periodic,4,2919
+EDFA then NLI (paper),Oracle,4,34
+EDFA then NLI (paper),Static,5,9967
+EDFA then NLI (paper),Online,5,105
+EDFA then NLI (paper),Periodic,5,2951
+EDFA then NLI (paper),Oracle,5,37
+EDFA then NLI (paper),Static,6,9860
+EDFA then NLI (paper),Online,6,92
+EDFA then NLI (paper),Periodic,6,2844
+EDFA then NLI (paper),Oracle,6,20
+EDFA then NLI (paper),Static,7,10066
+EDFA then NLI (paper),Online,7,108
+EDFA then NLI (paper),Periodic,7,2906
+EDFA then NLI (paper),Oracle,7,34
+EDFA then NLI (paper),Static,8,10088
+EDFA then NLI (paper),Online,8,91
+EDFA then NLI (paper),Periodic,8,3024
+EDFA then NLI (paper),Oracle,8,40
+EDFA then NLI (paper),Static,9,9879
+EDFA then NLI (paper),Online,9,116
+EDFA then NLI (paper),Periodic,9,2942
+EDFA then NLI (paper),Oracle,9,33
+NLI then EDFA,Static,0,9947
+NLI then EDFA,Online,0,107
+NLI then EDFA,Periodic,0,2970
+NLI then EDFA,Oracle,0,43
+NLI then EDFA,Static,1,10050
+NLI then EDFA,Online,1,116
+NLI then EDFA,Periodic,1,3022
+NLI then EDFA,Oracle,1,24
+NLI then EDFA,Static,2,9974
+NLI then EDFA,Online,2,113
+NLI then EDFA,Periodic,2,2944
+NLI then EDFA,Oracle,2,38
+NLI then EDFA,Static,3,9959
+NLI then EDFA,Online,3,103
+NLI then EDFA,Periodic,3,3000
+NLI then EDFA,Oracle,3,25
+NLI then EDFA,Static,4,10030
+NLI then EDFA,Online,4,91
+NLI then EDFA,Periodic,4,2933
+NLI then EDFA,Oracle,4,28
+NLI then EDFA,Static,5,9967
+NLI then EDFA,Online,5,89
+NLI then EDFA,Periodic,5,2909
+NLI then EDFA,Oracle,5,29
+NLI then EDFA,Static,6,9860
+NLI then EDFA,Online,6,76
+NLI then EDFA,Periodic,6,2892
+NLI then EDFA,Oracle,6,15
+NLI then EDFA,Static,7,10066
+NLI then EDFA,Online,7,92
+NLI then EDFA,Periodic,7,2964
+NLI then EDFA,Oracle,7,26
+NLI then EDFA,Static,8,10088
+NLI then EDFA,Online,8,82
+NLI then EDFA,Periodic,8,3033
+NLI then EDFA,Oracle,8,26
+NLI then EDFA,Static,9,9879
+NLI then EDFA,Online,9,79
+NLI then EDFA,Periodic,9,2838
+NLI then EDFA,Oracle,9,25
+EDFA and NLI together,Static,0,10797
+EDFA and NLI together,Online,0,91
+EDFA and NLI together,Periodic,0,2550
+EDFA and NLI together,Oracle,0,54
+EDFA and NLI together,Static,1,10862
+EDFA and NLI together,Online,1,86
+EDFA and NLI together,Periodic,1,2548
+EDFA and NLI together,Oracle,1,30
+EDFA and NLI together,Static,2,10771
+EDFA and NLI together,Online,2,121
+EDFA and NLI together,Periodic,2,2512
+EDFA and NLI together,Oracle,2,46
+EDFA and NLI together,Static,3,10781
+EDFA and NLI together,Online,3,98
+EDFA and NLI together,Periodic,3,2554
+EDFA and NLI together,Oracle,3,32
+EDFA and NLI together,Static,4,10788
+EDFA and NLI together,Online,4,113
+EDFA and NLI together,Periodic,4,2446
+EDFA and NLI together,Oracle,4,33
+EDFA and NLI together,Static,5,10826
+EDFA and NLI together,Online,5,104
+EDFA and NLI together,Periodic,5,2533
+EDFA and NLI together,Oracle,5,37
+EDFA and NLI together,Static,6,10733
+EDFA and NLI together,Online,6,95
+EDFA and NLI together,Periodic,6,2506
+EDFA and NLI together,Oracle,6,18
+EDFA and NLI together,Static,7,10859
+EDFA and NLI together,Online,7,71
+EDFA and NLI together,Periodic,7,2447
+EDFA and NLI together,Oracle,7,32
+EDFA and NLI together,Static,8,10882
+EDFA and NLI together,Online,8,187
+EDFA and NLI together,Periodic,8,2582
+EDFA and NLI together,Oracle,8,36
+EDFA and NLI together,Static,9,10734
+EDFA and NLI together,Online,9,106
+EDFA and NLI together,Periodic,9,2515
+EDFA and NLI together,Oracle,9,31
